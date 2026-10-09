@@ -1,1 +1,1 @@
-# ej02
+# Ejercicio 02 - Repositorio GitHub
